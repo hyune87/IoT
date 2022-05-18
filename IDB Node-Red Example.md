@@ -5,6 +5,7 @@
 ![image](https://user-images.githubusercontent.com/105696818/168772634-3477427f-18db-4e3b-a4ce-b9a7aff56655.png)
 
 
+
 # 2. Node-Red 설치
 ## 1. https://nodejs.org/ko/ 해당 사이트에서 다운로드 
 
@@ -16,6 +17,7 @@
 
 #### 다운로드 사이트 : https://nodejs.org/ko/
 #### 설치 참고사이트 : https://songhee96.tistory.com/2
+
 
 
 # 3. Node-red
@@ -30,6 +32,7 @@
  ## 3.2 실제 Node 구성화면 
  ### 적용센서 : 온도, 습도, 진동, 이산화탄소, 미세먼지, 초미세먼지, 포름알데히드
 ![image](https://user-images.githubusercontent.com/105696818/168933848-4efd4ee8-5d33-428d-97b7-1c5e7f2a3632.png)
+
 
 
 # 4. Node-Red source
