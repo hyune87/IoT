@@ -20,7 +20,7 @@
 
 
 
-# 3. Node-red
+# 3. Node-red 설명
  ## 3.1 사용된 Node 설명
  ![image](https://user-images.githubusercontent.com/105696818/168935824-629a2644-dd1d-48b8-922b-6353dc1c22b3.png)
 ![image](https://user-images.githubusercontent.com/105696818/168935829-bded1cda-76b6-42ca-8177-e41c5776fb0a.png)
