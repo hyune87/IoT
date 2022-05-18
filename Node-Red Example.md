@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/105696818/168772634-3477427f-18db-4e3b-a4ce-b9a7aff56655.png)
 
 # 2.Node-red
-## 온도, 습도, 진동, 이산화탄소, 미세먼지, 초미세먼지, 포름알데히드
+## 적용센서 : 온도, 습도, 진동, 이산화탄소, 미세먼지, 초미세먼지, 포름알데히드
 ![image](https://user-images.githubusercontent.com/105696818/168933848-4efd4ee8-5d33-428d-97b7-1c5e7f2a3632.png)
 
 
