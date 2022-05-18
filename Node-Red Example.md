@@ -14,7 +14,7 @@
 ![image](https://user-images.githubusercontent.com/105696818/168935852-76d3564f-eccb-4285-bd1e-6aaacee28a8b.png)
 
  
- ## 2.2 실제 Node  
+ ## 2.2 실제 Node 구화면 
  ### 적용센서 : 온도, 습도, 진동, 이산화탄소, 미세먼지, 초미세먼지, 포름알데히드
 ![image](https://user-images.githubusercontent.com/105696818/168933848-4efd4ee8-5d33-428d-97b7-1c5e7f2a3632.png)
 
