@@ -7,7 +7,7 @@
 <br>
 
 # 2. Node-Red 설치
-## 2-1. https://nodejs.org/ko/ 해당 사이트에서 다운로드 
+## 2-1. https://nodejs.org/ko/ 해당 사이트에서 Node-Red 다운로드 
 
 ## 2-2. 커맨드창(cmd)에서 아래 코드 순서대로 실행
 ### (1) npm install -g --unsafe-perm node-red
